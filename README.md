@@ -31,6 +31,13 @@ A collection of machine learning and statistical models using Python and R. Incl
 
 ---
 
+## 🌍 Live Portfolio
+
+Explore the deployed version of this portfolio website:  
+🔗 [shivamanalytics.vercel.app](https://shivamanalytics.vercel.app/)
+
+---
+
 ## 📬 About Me
 
 I'm Shivam — a data analytics graduate with a background in project management and automobile engineering. I enjoy combining analytical thinking with storytelling and always aim to deliver insights that are not just informative but actionable.
@@ -45,5 +52,6 @@ Let’s connect:
 ---
 
 Thanks for visiting!
-# shivam-projects
+
+# shivam-projects  
 Portfolio of data analytics, business analysis, and case study projects
